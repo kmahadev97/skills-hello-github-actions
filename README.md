@@ -1,3 +1,4 @@
+😊
 <header>
 
 # Hello GitHub Actions
